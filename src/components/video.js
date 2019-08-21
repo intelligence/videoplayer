@@ -208,7 +208,7 @@ export default class Video extends React.Component  {
           <VideoMain>
             <ReactPlayer 
               ref={this.ref}
-              url='https://player.vimeo.com/external/345514336.m3u8?s=4994964fa8d97f3b93542f1e69442f80dce134df'
+              url='https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8'
               width='100%'
               height='100%'
               playing={this.state.playing}
